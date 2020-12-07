@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Paez_Sonia_Interfaz</string>
+    <string name="ejercicio1">Ejercicio1</string>
+    <string name="ejercicio3">Ejercicio3</string>
+    <string name="ejercicio2">Ejercicio2</string>
+    <string name="euros_a_d_lares">Euros a Dolares</string>
+    <string name="d_lares_aeuros">Dolares a Euros</string>
+    <string name="convertir">Convertir</string>
+    <string name="euros">""</string>
+    <string name="d_lares">""</string>
+    <string name="labeldolares">Dólares</string>
+    <string name="labeleuros">Euros</string>
+    <string name="fechaPublicacion">fechaPublicacion</string>
+    <string name="sipnosis">sipnosis</string>
+    <string name="editorial">editorial</string>
+    <string name="autor">autor</string>
+    <string name="titulo">titulo</string>
+    <string name="todo">todo</string>
+</resources>
